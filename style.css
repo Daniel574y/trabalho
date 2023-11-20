@@ -1,8 +1,8 @@
 <div class="cat">
-    <img src="https://segredosdomundo.r7.com/wp-content/uploads/2020/09/sequoia-gigante-a-historia-da-maior-arvore-do-mundo-1.jpg.webp" alt="DelftStack Logo" />
+    <img src="https://segredosdomundo.r7.com/wp-content/uploads/2020/09/sequoia-gigante-a-historia-da-maior-arvore-do-mundo-1.jpg.webp" />
 </div>
 img {
-    max-width: 100%;
+    max-width: 110%;
     max-height: 100%;
    }
    .cat {
